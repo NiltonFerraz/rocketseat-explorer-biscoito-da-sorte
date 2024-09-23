@@ -2,7 +2,8 @@
 
 # 💻 Sobre o desafio
 
-Neste desafio você deverá criar um jogo chamado Biscoito da Sorte, no qual o usuário, **a partir de um clique ou enter**, abre um biscoito com a sua sorte do dia. Você aplicará o que aprendeu sobre vários temas, entre eles:
+Neste desafio aprendi a criar um jogo chamado Biscoito da Sorte, no qual o usuário, **a partir de um clique ou enter**, abre um biscoito com a sua sorte do dia. 
+Apliquei o que aprendi sobre vários temas:
 
 - Estrutura de dados HTML
 - Animações com CSS
@@ -11,4 +12,3 @@ Neste desafio você deverá criar um jogo chamado Biscoito da Sorte, no qual o u
 - Biblioteca JS Math()
 - Funções *callback*
 - Arrays
-
